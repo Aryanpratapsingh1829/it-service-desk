@@ -54,9 +54,9 @@ streamlit run app.py
 ## Screenshots
 Add your images from the `screenshots` folder:
 
-![Dashboard](screenshots/dashboard.png)
-![Create Ticket](screenshots/create_ticket.png)
-![Reports](screenshots/reports.png)
+![Dashboard](screenshot/dashboard.png)
+![Create Ticket](screenshot/create_ticket.png)
+![Reports](screenshot/reports.png)
 
 ## What I Learned
 - Designing a normalized relational schema with primary and foreign keys
